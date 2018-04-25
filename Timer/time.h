@@ -1,6 +1,5 @@
 #pragma once
 
-void Time();
+void Time(int m, int s);
 
-int m, s;
-int total;
+
